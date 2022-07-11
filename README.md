@@ -8,5 +8,5 @@ My name is Adarsh
 - 💬 Ask me about WEB
 - 📫 How to reach me: adarsh6282330338@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The First Computer Virus is a Creeper
+- ⚡ Fun fact: The First Computer Virus was a Creeper
 
