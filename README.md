@@ -10,7 +10,7 @@ My name is Adarsh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The First Computer Virus was a Creeper
 
-<h1 align="center">Hi 👋, I'm Akash Kumar L</h1>
+<h1 align="center">Hi 👋, I'm Adarsh.J</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
