@@ -12,13 +12,13 @@ My name is Adarsh
 
 <h1 align="center">Hi 👋, I'm Adarsh.J</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-src = "https://images.app.goo.gl/t6n8XMFYJq7MPvhA8">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumarl&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumarl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumarl" alt="akashkumarl" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh_pgmr&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh_pgmr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adarsh_pgmr" alt="Adarsh_pgmr" /></a> </p>
 
 - 🔭 I’m currently working on **programming**
 
