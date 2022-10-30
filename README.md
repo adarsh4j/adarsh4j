@@ -33,7 +33,7 @@ My name is Adarsh
 
 <p align="left">
 
-<a href="https://fb.com/adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh" height="30" width="40" /></a>
+<a href="https://fb.com/adarsh.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh" height="30" width="40" /></a>
 
 <a href="https://instagram.com/adarsh_j_2382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_j_2382" height="30" width="40" /></a>
 
