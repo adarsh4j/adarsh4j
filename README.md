@@ -25,7 +25,7 @@ My name is Adarsh
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 📫 How to reach me **adarsh6282330338@gmail.com**
+- 📫 How to reach me **adarsh123@ieee.org**
 
 - ⚡ Fun fact **Coding has over 700 languages **
 
