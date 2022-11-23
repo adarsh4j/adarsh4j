@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 📫 How to reach me **adarsh123@ieee.org**
+- 📫 How to reach me **adarsh6282330338@gmail.com**
 
 - ⚡ Fun fact **Coding has over 700 languages **
 
