@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
-<h3 align="center">Great day for you (:>))</h2>
+<h3 align="center">Good day for you (:>))</h2>
 
 
 
