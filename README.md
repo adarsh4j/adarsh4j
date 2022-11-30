@@ -34,11 +34,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-pgmr&show_icons=true&locale=en&layout=compact" alt="Adarsh-pgmr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh4j&show_icons=true&locale=en&layout=compact" alt="adarsh4j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-pgmr&show_icons=true&locale=en" alt="Adarsh-pgmr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh4j&show_icons=true&locale=en" alt="adarsh4j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-pgmr&" alt="Adarsh-pgmr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4j&" alt="adarsh4j" /></p>
 
 
 
