@@ -28,7 +28,8 @@
 
 </p>
 Browser
-<a href="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" target="blank"><img align="center" 
+<a href="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" target="blank"><img align="center"/></a>
+
 <h3 align="left">Languages and Tools:</h3>
 
 
