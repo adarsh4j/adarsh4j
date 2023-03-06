@@ -27,7 +27,8 @@
 <a href="https://instagram.com/adarsh_j_2382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_j_2382" height="30" width="40" /></a>
 
 </p>
-
+Browser
+<a href="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" target="blank"><img align="center" 
 <h3 align="left">Languages and Tools:</h3>
 
 
