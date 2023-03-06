@@ -42,7 +42,7 @@
 💾 Databases
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
-📂 Cloud Storage
+📂 Cloud Storages
 <p><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></p>
 <p><img src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/></p>
 
