@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh.J</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media](https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh4j&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh4j" /> </p>
