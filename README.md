@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Coding**
 
-- 📫 How to reach me **adarshj200223@gmail.com**
+- 📫 How to reach me **adarsh6282330338@gmail.com**
 
 - 📄 Know about my experiences [https://adarsh4j.github.io/Portfolio/profile.html](https://adarsh4j.github.io/Portfolio/profile.html)
 
