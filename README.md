@@ -39,25 +39,25 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarsh4j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adarsh4j" /></a></p><br><br>
 
-💾 Databases
+**💾 Databases**
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
-📂 Cloud Storages
+**📂 Cloud Storages**
 <p><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></p>
 <p><img src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/></p>
 
-🌐 Browsers
+**🌐 Browsers**
 <p><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></p>
 <p><img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/></p>
 
-🧑‍💻 Developer/Forums
+**🧑‍💻 Developer/Forums**
 <p><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></p>
 <p><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></p>
 
-🎮 Gaming
+**🎮 Gaming**
 <p><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/></p>
 
-🎛️ Operating System
+**🎛️ Operating System**
 <p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
 <p><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/></p>
 
