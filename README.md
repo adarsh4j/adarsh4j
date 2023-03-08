@@ -17,13 +17,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Programming**
+- 🔭 I’m currently working on **Programing**
 
 - 🌱 I’m currently learning **C++,Flutter,Web Development,C**
 
 - 👯 I’m looking to collaborate on **Web and Flutter**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Programing**
 
 - 👨‍💻 One of my Simple Work is available at [https://adarsh4j.github.io/Ring-effect-by-Html-and-css/](https://adarsh4j.github.io/Ring-effect-by-Html-and-css/)
 
