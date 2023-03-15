@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning **C++,Flutter,Web Development,C**
 
-- 👯 I’m looking to collaborate on **Web and Flutter**
+- 👯 I’m looking to collaborate on **Web and programming**
 
-- 🤝 I’m looking for help with **Programing**
+- 🤝 I’m looking for help with **Flutter**
 
 - 👨‍💻 One of my Simple Work is available at [https://adarsh4j.github.io/Ring-effect-by-Html-and-css/](https://adarsh4j.github.io/Ring-effect-by-Html-and-css/)
 
