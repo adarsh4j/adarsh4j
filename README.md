@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/adarsh4j/new.html/blob/main/github-header-image(1).png" alt="adarsh4j" /> </p>
+<p align="left"> <img src="https://github.com/adarsh4j/new.html/blob/main/github-header-image(2).png" alt="adarsh4j" /> </p>
 <h1 align="center">Hi 👋, I'm Adarsh.J</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
