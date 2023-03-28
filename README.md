@@ -1,4 +1,4 @@
-
+<p align="left"> alt="adarsh4j" /> </p>" alt="adarsh4j" /> </p>
 <h1 align="center">Hi 👋, I'm Adarsh.J</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
