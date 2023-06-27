@@ -45,7 +45,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarsh4j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adarsh4j" /></a></p><br>
 
-<h2 align="left">💾 Databases</h3>
+<h3 align="left">💾 Databases</h3>
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
 
