@@ -45,8 +45,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarsh4j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adarsh4j" /></a></p><br>
 
-**💾 Databases**
-<p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
 **📂 Cloud Storages**
 <p><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></p>
