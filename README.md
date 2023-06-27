@@ -44,7 +44,7 @@
 
 
 
-
+<h3 align="left">💾 Databases</h3>
 <p><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
 
