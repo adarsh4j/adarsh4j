@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **adarsh6282330338@gmail.com**
 
-- 📄 Know about my experiences [https://adarsh4j.github.io/Portfolio/profile.html](https://adarsh4j.github.io/Portfolio/profile.html)
+- 📄 Know about my experiences [https://adarsh4j.github.io/Portfolio/index.html](https://adarsh4j.github.io/Portfolio/index.html)
 
 - ⚡ Fun fact ****Coding has over 700 languages ****
 
