@@ -58,7 +58,7 @@
 
 **🧑‍💻 Developer/Forums**
 <p><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></p>
-<p><img src="https://img.shields.io/badge/Hackerrank-%23B92B27.svg?style=for-the-badge&logo=Hackerrank&logoColor=white"/></p>
+
 
 **🎮 Gaming**
 <p><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/></p>
