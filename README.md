@@ -14,23 +14,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Programing Languages**
 
-- 🌱 I’m currently learning **C++,Flutter,Web Development,C**
+
+- 🌱 I’m currently learning **C++,Flutter,Web Development**
 
 - 👯 I’m looking to collaborate on **Web and programming**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 👨‍💻 One of my Simple Work is available at [https://adarsh4j.github.io/Ring-effect-by-Html-and-css/](https://adarsh4j.github.io/Ring-effect-by-Html-and-css/)
-
-- 📝 I Sometimes write Small articles on [https://adarsh4j.github.io/Task1-html/](https://adarsh4j.github.io/Task1-html/)
-
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Something**
 
 - 📫 How to reach me **adarshjn444@gmail.com**
-
-- 📄 Know about my experiences [https://adarsh4j.github.io/Portfolio/index.html](https://adarsh4j.github.io/Portfolio/index.html)
 
 - ⚡ Fun fact ****Coding has over 700 languages ****
 
