@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Programing**
+- 🔭 I’m currently working on **Programing Languages**
 
 - 🌱 I’m currently learning **C++,Flutter,Web Development,C**
 
@@ -26,9 +26,9 @@
 
 - 📝 I Sometimes write Small articles on [https://adarsh4j.github.io/Task1-html/](https://adarsh4j.github.io/Task1-html/)
 
-- 💬 Ask me about **Coding**
+- 💬 Ask me about **Programming**
 
-- 📫 How to reach me **adarsh6282330338@gmail.com**
+- 📫 How to reach me **adarshjn444@gmail.com**
 
 - 📄 Know about my experiences [https://adarsh4j.github.io/Portfolio/index.html](https://adarsh4j.github.io/Portfolio/index.html)
 
