@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **adarshjn444@gmail.com**
 
-- ⚡ Fun fact ****Coding has over 700 languages ****
+- ⚡ Fun fact ****Coding has over 700 languages****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
