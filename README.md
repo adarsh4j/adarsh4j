@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/adarsh6282330338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh6282330338" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adarsh6282330338" target="blank"><img align="center" src="![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="adarsh6282330338" height="30" width="40" /></a>
  <a href="https://leetcode.com/Adarsh_J2302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Adarsh_J2303" height="30" width="40" /></a>
 </p>
 
