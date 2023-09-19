@@ -32,8 +32,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/adarsh6282330338" target="Hackerrank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adarsh6282330338" height="40" width="60" /></a>
- <a href="https://leetcode.com/Adarsh_J2302/" target="Leetcode"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Adarsh_J2303" height="40" width="60" /></a>
+<a href="https://www.hackerrank.com/adarsh6282330338" target="Hackerrank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adarsh6282330338" height="30" width="60" /></a>
+ <a href="https://leetcode.com/Adarsh_J2302/" target="Leetcode"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Adarsh_J2303" height="30" width="60" /></a>
 </p>
 
 <p align="left">
