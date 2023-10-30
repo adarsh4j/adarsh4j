@@ -99,4 +99,5 @@
 
 [![Adarsh J's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh4j&theme=dracula)](https://github.com/adarsh4j/github-readme-activity-graph)
 
- <a href="https://github.com/adarsh4j" class="y"><img src="file:///C:/Users/adars/OneDrive/Pictures/Screenshots/portfolio.png" width="30px" height="25px" alt="Github"></a>
+ <a href="" class="y"><img src="![Uploading image.png…]()
+" width="30px" height="25px" alt="Github"></a>
