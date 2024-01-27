@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer+and+an+Engineer....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer 😁....">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh4j" alt="adarsh4j" /></a> </p>
 
@@ -18,13 +18,13 @@
 
 
 
-- 🌱 I’m currently learning **C++,Flutter,Web Development**
+- 🌱 I’m currently learning **Java,C++,Flutter,Web Development**
 
-- 👯 I’m looking to collaborate on **Web and programming**
+- 👯 I’m looking to collaborate on **App Development**
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Something**
+- 💬 Ask me about **Nothing 😁**
 
 - 📫 How to reach me **adarshjn444@gmail.com**
 
@@ -100,6 +100,6 @@
 [![Adarsh J's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh4j&theme=dracula)](https://github.com/adarsh4j/github-readme-activity-graph)
 <br>
 <br>
-
- <center><a style="color:green;" href="https://adarshjportfolio.netlify.app/"><b>Portfolio<b></a></b></center>
+<br>
+ <center><a style="color:green;" href="https://adarshjportfolio.netlify.app/"><b>PORTFOLIO<b></a></b></center>
  
