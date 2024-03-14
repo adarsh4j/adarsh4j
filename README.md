@@ -101,5 +101,6 @@
 <br>
 <br>
 <br>
- <center><a style="color:green;" href="https://adarshjportfolio.netlify.app/"><b>PORTFOLIO<b></a></b></center>
- 
+<p align="center">
+  <a style="color:green;" href="https://adarshjportfolio.netlify.app/"><b>Check out my Portfolio!</b></a>
+</p> 
