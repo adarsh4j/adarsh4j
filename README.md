@@ -17,12 +17,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
+- 🌱 I’m currently Working on **ICFOSS** as **Application development**
 
 - 🌱 I’m currently learning **Java,C++,Flutter,Web Development**
 
 - 👯 I’m looking to collaborate on **App Development**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **React Js**
 
 - 💬 Ask me about **Nothing 😁**
 
