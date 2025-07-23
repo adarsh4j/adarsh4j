@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 💼💻 I am currently working as an **Application Development** Intern at **ICFOSS**.
+- 💼💻 I am currently working as an **Project Associate** at **ICFOSS**.
 
 - 🌱 I’m currently learning **Java,C++,Flutter,Web Development**
 
