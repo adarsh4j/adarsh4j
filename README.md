@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer....">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh4j" alt="adarsh4j" /></a> </p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=adarsh4j&theme=gruvbox&no-bg=true&margin-w=10)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
