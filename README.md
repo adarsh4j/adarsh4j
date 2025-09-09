@@ -1,12 +1,11 @@
-<p align="center"> <img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" alt="adarsh4j" /> </p>
-<h1 align="center">Hi 👋 I am Adarsh.J</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h1 align="center">Adarsh.J | React Developer | Tech Enthusiastic </h1>
+<h3 align="center">SEAS | Insurance Tech| Technophile </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-- > Love your family,work hard,live with your passion❤️❤️
+-  EX-ICFOSS 
 
-- > Welcome to my account😁👌 
+- Technical Assistant , GuideHouse
 
 <br/>
 
@@ -16,20 +15,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h2>📍 About me</h2>
+<b>Adarsh J</b>  is a dedicated technical professional with a B.Tech in Computer Science, graduated in 2024 from APJ Abdul Kalam University. Experience includes working on significant projects within the industrial sector and a passion for creating impactful, user-friendly applications.
 
-- 💼💻 I am currently working as a **Project Associate** at **ICFOSS**.
-
-- 🌱 I’m currently learning **Java,C++,Flutter,Web Development**
-
-- 👯 I’m looking to collaborate on **App Development**
-
-- 🤝 I’m looking for help with **React Js**
-
-- 💬 Ask me about **Nothing 😁**
-
-- 📫 How to reach me **adarshjn444@gmail.com**
-
-- ⚡ Fun fact ****Coding has over 700 languages****
+<h2>💼 Professional Experience </h2>
+- <b>Technical Assistant at Guidehouse</b>: Currently working as a Technical Assistant, with a focus on frontend development using React.js. Specialization in building responsive user interfaces and effective collaboration with project teams. <br/> <br/>
+- <b>Project Associate at ICFOSS</b>: Previous experience as a Project Associate at ICFOSS, contributing to various projects and gaining experience in a professional development environment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
