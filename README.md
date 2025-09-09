@@ -1,11 +1,6 @@
 <h1 align="center">Adarsh.J | React Developer | Tech Enthusiastic </h1>
-<h3 align="center">SEAS | Insurance Tech| Technophile </h3>
+<h3 align="center">SEA-S | Insurance Tech| Technophile </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-
--  EX-ICFOSS 
-
-- Technical Assistant , GuideHouse
 
 <br/>
 
@@ -22,7 +17,7 @@
 - <b>Technical Assistant at Guidehouse</b>: Currently working as a Technical Assistant, with a focus on frontend development using React.js. Specialization in building responsive user interfaces and effective collaboration with project teams. <br/> <br/>
 - <b>Project Associate at ICFOSS</b>: Previous experience as a Project Associate at ICFOSS, contributing to various projects and gaining experience in a professional development environment.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💻 Hobby</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/adarsh6282330338" target="Hackerrank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adarsh6282330338" height="30" width="60" /></a>
  <a href="https://leetcode.com/Adarsh_J2302/" target="Leetcode"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Adarsh_J2303" height="30" width="60" /></a>
