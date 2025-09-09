@@ -1,4 +1,4 @@
-<h1 align="center">Adarsh.J | React Developer | Tech Enthusiastic </h1>
+<h1 align="center">👨‍💻 Adarsh.J | React Developer | Tech Enthusiastic </h1>
 <h3 align="center">SEA-S | Insurance Tech| Technophile </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
 
