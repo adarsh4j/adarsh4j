@@ -12,7 +12,7 @@
 
 <h2>💼 Professional Experience </h2> 
 
-- <b>Technical Assistant at Guidehouse</b>: Currently working as a Technical Assistant, with a focus on frontend development using React.js. Specialization in building responsive user interfaces and effective collaboration with project teams. <br/> <br/>
+- <b>Technical Associate at Guidehouse</b>: Currently working as a Technical Assistant, with a focus on frontend development using React.js. Specialization in building responsive user interfaces and effective collaboration with project teams. <br/> <br/>
 - <b>Project Associate at ICFOSS</b>: Previous experience as a Project Associate at ICFOSS, contributing to various projects and gaining experience in a professional development environment.
 
 <h3 align="left">💻 Hobby</h3>
