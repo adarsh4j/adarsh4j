@@ -7,10 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer....">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 <h2>📍 About me</h2> 
