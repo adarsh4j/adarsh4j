@@ -6,14 +6,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer....">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=adarsh4j&theme=gruvbox&no-bg=true&margin-w=10)
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<h2>📍 About me</h2>
+
+<h2>📍 About me</h2> 
+
 <b>Adarsh J</b>  is a dedicated technical professional with a B.Tech in Computer Science, graduated in 2024 from APJ Abdul Kalam University. Experience includes working on significant projects within the industrial sector and a passion for creating impactful, user-friendly applications.
 
-<h2>💼 Professional Experience </h2>
+<h2>💼 Professional Experience </h2> 
+
 - <b>Technical Assistant at Guidehouse</b>: Currently working as a Technical Assistant, with a focus on frontend development using React.js. Specialization in building responsive user interfaces and effective collaboration with project teams. <br/> <br/>
 - <b>Project Associate at ICFOSS</b>: Previous experience as a Project Associate at ICFOSS, contributing to various projects and gaining experience in a professional development environment.
 
