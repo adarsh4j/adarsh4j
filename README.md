@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+an+Enthusiastic+Developer....">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
 <h2>📍 About me</h2> 
 
 <b>Adarsh J</b>  is a dedicated technical professional with a B.Tech in Computer Science, graduated in 2024 from APJ Abdul Kalam University. Experience includes working on significant projects within the industrial sector and a passion for creating impactful, user-friendly applications.
